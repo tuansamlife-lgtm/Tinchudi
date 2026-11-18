@@ -1,0 +1,6 @@
+{
+  "name": "tinchudi.xyz — Tin Chú Đi",
+  "description": "Landing page hài hước với cú lật mặt bất ngờ về độ tin cậy trên mạng và những con số thật về an toàn trẻ em trực tuyến tại Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
